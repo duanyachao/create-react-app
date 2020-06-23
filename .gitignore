@@ -26,3 +26,7 @@ yarn-error.log*
 .eslintrc.json
 #vscode
 /.vscode
+yarn.lock
+#storybook
+/.storybook
+/src/stories
