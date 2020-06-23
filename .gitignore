@@ -23,10 +23,12 @@ yarn-debug.log*
 yarn-error.log*
 
 #eslint
-.eslintrc.json
+#.eslintrc.json
+
 #vscode
-/.vscode
+#/.vscode
 yarn.lock
+
 #storybook
-/.storybook
-/src/stories
+#/.storybook
+#/src/stories
