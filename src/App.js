@@ -22,7 +22,7 @@ export default function App()  {
               <Link to="/about">About</Link>
             </li>
             <li>
-              <Link to="/dashboard">Bas</Link>
+              <Link to="/dashboard">Bashboard</Link>
             </li>
           </ul>
         </div>
